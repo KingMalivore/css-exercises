@@ -1,0 +1,13 @@
+.btn-inverted, .btn-normal {
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+    font-size: 28px;
+}
+
+.btn-inverted {
+    background-color: black;
+    color: white;
+}
+
+.btn-normal {
+    background-color: yellow;
+}
